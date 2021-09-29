@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@henriquekleinberger/root-config": "https://poc-microfrontend-single-spa.nyc3.digitaloceanspaces.com/mc-root-config.js",
+    "@henriquekleinberger/react-single": "https://poc-microfrontend-single-spa.nyc3.digitaloceanspaces.com/mc-react-single.js",
+    "@henriquekleinberger/react-multiples": "https://poc-microfrontend-single-spa.nyc3.digitaloceanspaces.com/mc-react-multiples.js",
+    "@henriquekleinberger/react-lazy": "https://poc-microfrontend-single-spa.nyc3.digitaloceanspaces.com/mc-react-lazy.js",
+    "@henriquekleinberger/react-parcel": "https://poc-microfrontend-single-spa.nyc3.digitaloceanspaces.com/mc-react-parcel.js",
+    "@henriquekleinberger/react-route": "https://poc-microfrontend-single-spa.nyc3.digitaloceanspaces.com/mc-react-route.js",
+    "@henriquekleinberger/utils": "https://poc-microfrontend-single-spa.nyc3.digitaloceanspaces.com/mc-utils.js",
+    "@henriquekleinberger/react-header": "https://poc-microfrontend-single-spa.nyc3.digitaloceanspaces.com/mc-react-header.js"
+  }
+}

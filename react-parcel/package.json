@@ -1,7 +1,7 @@
 {
-  "name": "@henriquekleinberger/react-single",
+  "name": "@henriquekleinberger/react-parcel",
   "scripts": {
-    "start": "webpack-dev-server --port 8500",
+    "start": "webpack-dev-server --port 8501",
     "build": "webpack --mode=production",
     "analyze": "webpack --mode=production --env.analyze=true",
     "lint": "eslint src --ext js",
